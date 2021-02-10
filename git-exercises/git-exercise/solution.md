@@ -23,7 +23,8 @@
 
 ** My  echo 'blob 14\0Hello, World!' | openssl sha1 didn't got executed. need help in this section
 
-12. The 'git revert' command is used to record some new commits to reverse the effect of some earlier commits 
+12. The 'git revert' command is used to record some new commits to reverse the effect of some earlier commits.
+
 
 
 
