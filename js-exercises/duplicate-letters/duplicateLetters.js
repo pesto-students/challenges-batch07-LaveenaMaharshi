@@ -1,6 +1,6 @@
 function duplicateLetters(...args) {
   let name;
-  const names = args;
+  const names = args[0];
   const map = new Map();
   let max = 1;
   for (name of names) {
