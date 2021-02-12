@@ -21,7 +21,7 @@ function cacheFunction(sumFib) {
     if (n in memo) {
       return memo[n];
     }
-    memo[n] = sumFib[n];
+    memo[n] = sumFib(n);
     return memo[n];
   };
   return result;
